@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33808.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShooterBot", "ShooterBot\ShooterBot.csproj", "{3A8AC7E3-A946-49F2-88AA-7013D653C9BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pictures", "Pictures", "{26B52A48-4388-420D-B6D1-DBB63009D118}"
+	ProjectSection(SolutionItems) = preProject
+		ShooterBot\Pictures\Circle Green.png = ShooterBot\Pictures\Circle Green.png
+		ShooterBot\Pictures\Circle Red.png = ShooterBot\Pictures\Circle Red.png
+		ShooterBot\Pictures\Square Blue.png = ShooterBot\Pictures\Square Blue.png
+		ShooterBot\Pictures\Square Green.png = ShooterBot\Pictures\Square Green.png
+		ShooterBot\Pictures\Triangle Blue.png = ShooterBot\Pictures\Triangle Blue.png
+		ShooterBot\Pictures\Triangle Red.png = ShooterBot\Pictures\Triangle Red.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A8AC7E3-A946-49F2-88AA-7013D653C9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8AC7E3-A946-49F2-88AA-7013D653C9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8AC7E3-A946-49F2-88AA-7013D653C9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8AC7E3-A946-49F2-88AA-7013D653C9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F885F9C6-C4F4-4F9E-BAB5-AAFE657632FF}
+	EndGlobalSection
+EndGlobal

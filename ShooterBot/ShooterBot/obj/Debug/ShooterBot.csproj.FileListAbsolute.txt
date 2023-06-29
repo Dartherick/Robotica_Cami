@@ -1,0 +1,10 @@
+C:\Users\maxel\Desktop\Dartherick\ShooterBot\ShooterBot\bin\Debug\ShooterBot.exe.config
+C:\Users\maxel\Desktop\Dartherick\ShooterBot\ShooterBot\bin\Debug\ShooterBot.exe
+C:\Users\maxel\Desktop\Dartherick\ShooterBot\ShooterBot\bin\Debug\ShooterBot.pdb
+C:\Users\maxel\Desktop\Dartherick\ShooterBot\ShooterBot\obj\Debug\ShooterBot.csproj.AssemblyReference.cache
+C:\Users\maxel\Desktop\Dartherick\ShooterBot\ShooterBot\obj\Debug\ShooterBot.Form1.resources
+C:\Users\maxel\Desktop\Dartherick\ShooterBot\ShooterBot\obj\Debug\ShooterBot.Properties.Resources.resources
+C:\Users\maxel\Desktop\Dartherick\ShooterBot\ShooterBot\obj\Debug\ShooterBot.csproj.GenerateResource.cache
+C:\Users\maxel\Desktop\Dartherick\ShooterBot\ShooterBot\obj\Debug\ShooterBot.csproj.CoreCompileInputs.cache
+C:\Users\maxel\Desktop\Dartherick\ShooterBot\ShooterBot\obj\Debug\ShooterBot.exe
+C:\Users\maxel\Desktop\Dartherick\ShooterBot\ShooterBot\obj\Debug\ShooterBot.pdb
