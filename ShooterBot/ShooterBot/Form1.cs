@@ -18,7 +18,7 @@ namespace ShooterBot
         int i = 0;
         List<string> MessageList = new List<string>();
         public Form1()
-        {
+        {    //Inicializando hmi
             InitializeComponent();
 
             string[] PortList = SerialPort.GetPortNames(); //mejorar aqui
